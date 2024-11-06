@@ -1,0 +1,9 @@
+torch
+facenet-pytorch
+ultralytics
+opencv-python
+numpy
+torchvision
+pandas
+deepface
+dlib
